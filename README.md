@@ -1,3 +1,5 @@
+:star:
+
 # docs
 
 This project aims at providing a repository dedicated to Dr Francis M. Sanchez' work in holography and cosmology; it is just a mere continuation of what was initiated and published on a couple of other blogs.
@@ -33,4 +35,4 @@ This project aims at providing a repository dedicated to Dr Francis M. Sanchez' 
 * [The Dirac Electron: From Quantum Chemistry to Holistic Cosmology by J.Maruani](https://onlinelibrary.wiley.com/doi/abs/10.1002/jccs.201500374#)
 * [solar 22 years cycle](https://link.springer.com/article/10.1007%2Fs10509-016-2985-8)
 
-More to come soon stay tuned.../..
+More to come soon stay tuned.../.:stars:.
