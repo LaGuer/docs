@@ -5,7 +5,8 @@
 This project aims at providing a repository dedicated to Dr Francis M. Sanchez' work in holography and cosmology; it is just a mere continuation of what was initiated and published on a couple of other blogs.
 
 ## Blog
-* [cosmhology.blogspot.com](https://cosmhology.blogspot.com/)
+* [cosmhology blog in english](https://cosmhology.blogspot.com/)
+* [cosmhologie blog in french](https://cosmhologie.blogspot.com/)
 * [Concorde Physiques in russian ](http://concorde-physiques.blogspot.com/)
 
 ## Publications
