@@ -6,7 +6,7 @@ This project aims at providing a repository dedicated to Dr Francis M. Sanchez' 
 
 ## Blog
 * [cosmhology.blogspot.com](https://cosmhology.blogspot.com/)
-* [Concorde Physqie in russian ](http://concorde-physiques.blogspot.com/)
+* [Concorde Physiques in russian ](http://concorde-physiques.blogspot.com/)
 
 ## Publications
 * [Vixra Publications](vixra.org/author/francis_m_sanchez)
