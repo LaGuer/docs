@@ -36,4 +36,5 @@ This project aims at providing a repository dedicated to Dr Francis M. Sanchez' 
 * [The Dirac Electron: From Quantum Chemistry to Holistic Cosmology by J.Maruani](https://onlinelibrary.wiley.com/doi/abs/10.1002/jccs.201500374#)
 * [solar 22 years cycle](https://link.springer.com/article/10.1007%2Fs10509-016-2985-8)
 * [Current Issues in Cosmology](https://www.cambridge.org/gb/academic/subjects/physics/cosmology-relativity-and-gravitation/current-issues-cosmology?format=HB&isbn=9780521858984)
+
 More to come soon stay tuned.../.:stars:.
