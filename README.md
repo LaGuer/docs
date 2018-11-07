@@ -14,6 +14,7 @@ This project aims at providing a repository dedicated to Dr Francis M. Sanchez' 
 * [A coherent resonant cosmology approach and its implications in microphysics and Biophysics Pages 375-407 of Quantum Systems in Physics, Chemistry](https://www.springer.com/fr/book/9783319502540?token=gbgen&wt_mc=GoogleBooks.GoogleBooks.3.EN#)
 * [From Coherent Cosmic Oscillations to the Steady-State Cyclic Ultrafast](http://rxiv.org/abs/1401.0228)
 * [Evidence for a Steady-State, Holographic, Tachyonic and Super-Symmetric Cosmology](https://www.researchgate.net/publication/267430152_Evidence_for_a_Steady-State_Holographic_Tachyonic_and_Super-Symmetric_Cosmology)
+* [academia.edu Correcting Five Historical Faults in Modern Cosmology](http://www.academia.edu/30843365/Correcting_Five_Historical_Faults_in_Modern_Cosmology)
 
 ## Videos
 
