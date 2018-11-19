@@ -38,11 +38,9 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 * [solar 22 years cycle](https://link.springer.com/article/10.1007%2Fs10509-016-2985-8)
 * [Current Issues in Cosmology](https://www.cambridge.org/gb/academic/subjects/physics/cosmology-relativity-and-gravitation/current-issues-cosmology?format=HB&isbn=9780521858984)
 * ```@inproceedings{Sanchez2015RemarkablePO,
-  title={Remarkable Properties of the Eddington Number 137 and Electric Parameter 137 . 036 excluding the Multiverse Hypothesis},
-  author={Francis M. Sanchez and Valery A. Kotov},
-  year={2015}
-}
-```
+  title=Remarkable Properties of the Eddington Number 137 and Electric Parameter 137 . 036 excluding the Multiverse Hypothesis},
+  author={Francis M. Sanchez and Valery A. Kotov,
+  year=2015```
 ## Papers
 * [Discussions sur les oscillations cosmiques, les nombres sans dimension et les periodicites en microphysique et cosmologie](https://lempel.pagesperso-orange.fr/occ_cdf.pdf)
 
