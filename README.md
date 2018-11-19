@@ -1,8 +1,8 @@
 :star:
 
-# docs
+# Docs
 
-This project aims at providing a repository dedicated to Dr Francis M. Sanchez' work in holography and cosmology; it is just a mere continuation of what was initiated and published on a couple of other blogs.
+This project aims at providing a repository dedicated to Dr Francis Michel Sanchez' work in holography and cosmology; it is just a mere continuation of what was initiated and published on a couple of other blogs.
 
 ## Blog
 * [cosmhology blog in english](https://cosmhology.blogspot.com/)
@@ -43,5 +43,7 @@ This project aims at providing a repository dedicated to Dr Francis M. Sanchez' 
   year={2015}
 }
 ```
+## Papers
+* [Discussions sur les oscillations cosmiques, les nombres sans dimension et les periodicites en microphysique et cosmologie](https://lempel.pagesperso-orange.fr/occ_cdf.pdf)
 
 More to come soon stay tuned.../.:stars:.
