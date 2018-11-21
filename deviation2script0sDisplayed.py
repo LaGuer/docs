@@ -9,7 +9,7 @@ exponents = []
 
 progression_display = True # True / False
 exponent_minmax = 4
-precision = 0.00002 # add or remove 0 for precision's accuracy
+precision = 0.0000002 # add or remove 0 for precision's accuracy
 number_min_Zero = 1
 
 values.append(['a/137',log(137.0359991)-log(137)])
@@ -98,7 +98,7 @@ print("Pr");
 
 nbSolutions = 0
 #<= 0 Do not make twice the same calculation with the inverses
-while exposants[longueur-1]<=0:
+while exponents[length-1]<=0:
     # Calculate and process the result
     result= 0
     j=0
@@ -119,18 +119,18 @@ while exposants[longueur-1]<=0:
             for j in range (0,longueur):
                 print(exponents[j],end='\t')
             print(nbzero,end='\t')
-            print(int(resultat*1000000000))
+            print(int(result*1000000000))
             nbSolutions = nbSolutions + 1
     
     # Add + Exponents Rotation
     exponents[0]+=1
-    for j in range (0,longueur-1):
+    for j in range (0,length-1):
         if exponents[j]>exponent_minmax:
             exponents[j]=-exponent_minmax
             exponents[j+1]+=1
     if (display_progression):
         if (exponents[longueur-2]!=precedent):
-            precedent=exponents[longueur-2]
+            precedent=exponents[length-2]
             #print("Status:",end=' ')
             #print(exponents[j+1]);
 
