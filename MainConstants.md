@@ -19,35 +19,47 @@ CONSTANTES PRINCIPALES
 - Masse réduite du proton                                        m_p  ≈ 1836.15267389(17) me 
 - Masse réduite de l'Hydrogène                                   m_H  ≈ 1836.15264726(17) me 
 - Masse réduite du neutron                                       m_n  ≈ 1838.68366089(17) me 
-- Masse réduite du muon       mCODATA ≈ 206.7682826(41) me                                                                 
-mSANCHEZ ≈ 206.7682869 me
+- Masse réduite du muon        
+[x] μCODATA ≈ 206.7682826(41) me                                                                 
+[x] μSANCHEZ ≈ 206.7682869 me
 
-- Masse réduite du tau        τCODATA ≈ 3477.23(23) me                                                                      τSANCHEZ ≈ 3477.441701 me
+- Masse réduite du tau        
+[x] τCODATA ≈ 3477.23(23) me                                                                      
+[x] τSANCHEZ ≈ 3477.441701 me
 
 - Constante de couplage de Fermi
-G_F ≡ (ħc)3/EF ² ≈ 1.4358509(7) ×10-62 Joule × m3                 G_FSanchez ≈ 1.435850991 ×10-62 Joule × m3 
+[x] G_F ≡ (ħc)3/EF ² ≈ 1.4358509(7) ×10-62 Joule × m3                 
+[x] G_FSanchez ≈ 1.435850991 ×10-62 Joule × m3 
 
-- Masse réduite de Fermi (racine du couplage électrofaible aw)   FCODATA  ≡ √aw ≡ EF /mec2  ≈  573007.33(25)                 FSANCHEZ  ≈  573007.3652
+- Masse réduite de Fermi (racine du couplage électrofaible aw)   
+[x] F_CODATA  ≡ √aw ≡ EF /mec2  ≈  573007.33(25)                 
+[x] F_SANCHEZ  ≈  573007.3652
 
-- Constante de couplage nucléaire fort                           fCODATA ≈ 1/0.1181(11)                                       fBIZOUARD ≡ aw/2p(pH)3/2 ≈ 8.434502892 
+- Constante de couplage nucléaire fort                           
+[x] f_CODATA ≈ 1/0.1181(11)                                       
+[x] f_BIZOUARD ≡ aw/2p(pH)3/2 ≈ 8.434502892 
 
-- Constante de gravitation               GCODATA ≈ 6.67408(31) × 10-11  kg-1m3s-2                                             GSANCHEZ  ≈ 6.675453818 × 10-11  kg-1m3s-2
+- Constante de gravitation               
+[x] G_CODATA ≈ 6.67408(31) × 10-11  kg-1m3s-2                                             
+[x] G_SANCHEZ  ≈ 6.675453818 × 10-11  kg-1m3s-2
 
 - Constante de couplage gravitationnel (Sanchez)
- a_G ≡ ħc/GmpmH  ≈ 1.691936465 × 1038   
+[x] a_G ≡ ħc/GmpmH  ≈ 1.691936465 × 1038   
 
 - Période Cosmique de Kotov 
-t_cc ≈ 9600.061(2) s
+[x] t_cc ≈ 9600.061(2) s
 
-- Température cosmique           θCODATA ≈2.7255(6) K                                                                        θSANCHEZ  ≈2.725820831 K
+- Température cosmique           
+[x] θCODATA ≈2.7255(6) K                                                                        
+[x] θSANCHEZ  ≈2.725820831 K
 
 - Conversion Energie-température (de 'Boltzman')
-k_B = 1.3806488 ×10-23
+[x] k_B = 1.3806488 ×10-23
 
 - Masse réduite des bosons intermédiaires
 W = 157298(23)                                                                                                       W_SANCHEZ  ≈ 157340 
 Z = 178450.0(41)                                                                                                      Z_SANCHEZ  ≈ 178452
 
 - Masse réduite des bosons intermédiaires
- Π_± ≈ 273.13203(68)
- Π_0 ≈ 264.1426(18)
+[x] Π_± ≈ 273.13203(68)
+[x] Π_0 ≈ 264.1426(18)
