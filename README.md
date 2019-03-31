@@ -1,6 +1,6 @@
-<img align="left"  src="https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif" height="450"  alt="cosmos" width="450" />
+<img align="left"  src="https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif" height="220"  alt="cosmos" width="220" />
 
-<img align="right"  src="https://media.giphy.com/media/loop-endless-trippy-xT9IgusfDcqpPFzjdS/giphy.gif" height="450"  alt="galaxy" width="450"/>
+<img align="right"  src="https://media.giphy.com/media/KXRPtl0FhiNqg/giphy-downsized.gif" height="220"  alt="galaxy" width="220"/>
 
 
 :star:
