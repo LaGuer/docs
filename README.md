@@ -1,5 +1,5 @@
-<img align="left" src="https://https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS/giphy.gif" alt="galaxy"/>
-<img align="right" src="https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy/giphy.gif" alt="cosmos" width="100"/>
+![Galaxy](https://https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS/giphy.gif)
+![Cosmos](https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy/giphy.gif)
 
 :star:
 
