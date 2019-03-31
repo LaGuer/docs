@@ -11,7 +11,7 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 
 ## Topological Axis
 
-<img align=\"left\" src=\"https://raw.githubusercontent.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios/master/AXETOPOL3.png\" alt=\"topological-axis\" width=\"150\"/>
+<img align="left" src="https://raw.githubusercontent.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios/master/AXETOPOL3.png" alt="topological-axis" width="150"/>
 
 * [Jupyter Notebook containing the Topological Axis](https://nbviewer.jupyter.org/github/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios/blob/master/Jupyter-Notebook%20Practice%20Physical%20Constants%20Ratios.ipynb)
 
