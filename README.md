@@ -10,7 +10,8 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 * [Concorde Physiques in russian ](http://concorde-physiques.blogspot.com/)
 
 ## Publications
-* [Vixra Publications](https://vixra.org/author/francis_m_sanchez)
+* [Vixra Publications by francis_m_sanchez](https://vixra.org/author/francis_m_sanchez)
+* [Rxiv Publications by f_m_sanchez](http://rxiv.org/author/f_m_sanchez)
 * [A coherent resonant cosmology approach and its implications in microphysics and Biophysics Pages 375-407 of Quantum Systems in Physics, Chemistry](https://www.springer.com/fr/book/9783319502540?token=gbgen&wt_mc=GoogleBooks.GoogleBooks.3.EN#)
 * [From Coherent Cosmic Oscillations to the Steady-State Cyclic Ultrafast](https://rxiv.org/abs/1401.0228)
 * [Evidence for a Steady-State, Holographic, Tachyonic and Super-Symmetric Cosmology](https://www.researchgate.net/publication/267430152_Evidence_for_a_Steady-State_Holographic_Tachyonic_and_Super-Symmetric_Cosmology)
@@ -42,6 +43,13 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
   author={Francis M. Sanchez and Valery A. Kotov,
   year=2015```
 ## Papers
+
 * [Discussions sur les oscillations cosmiques, les nombres sans dimension et les periodicites en microphysique et cosmologie](https://lempel.pagesperso-orange.fr/occ_cdf.pdf)
+
+## V.A. Kotov publications
+
+* [http://vixra.org/author/valery_a_kotov](http://vixra.org/author/valery_a_kotov)
+* [http://rxiv.org/author/v_a_kotov](http://rxiv.org/author/v_a_kotov)
+* [https://www.researchgate.net/scientific-contributions/4140366_V_A_Kotov](https://www.researchgate.net/scientific-contributions/4140366_V_A_Kotov)
 
 More to come soon stay tuned.../.:stars:.
