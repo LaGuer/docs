@@ -71,9 +71,9 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 
 * [Co-authored "Emergence of a New Quantum Mechanics by Multivalued Logic"](https://www.researchgate.net/publication/260628556_Emergence_of_a_New_Quantum_Mechanics_by_Multivalued_Logic)
 * [The Physics of Reality : Space, Time, Matter, Cosmos - Proceedings of the 8th Symposium Honoring Mathematical Physicist Jean-Pierre Vigier; Covent Gar](https://www.amazon.com/Physics-Reality-Proceedings-Mathematical-Jean-Pierre/dp/9814504777)
-* [Nicolas's interview in the newspaper part 1](https://github.com/cosmhology/docs/flawisky/)
-* [Nicolas's interview in the newspaper part 2](https://github.com/cosmhology/docs/flawisky/)
-* [Nicolas's interview in the newspaper part 3](https://github.com/cosmhology/docs/flawisky/)
+* [Nicolas's interview in the newspaper part 1](https://raw.githubusercontent.com/cosmhology/docs/master/flawisky/IMG_1471.JPG)
+* [Nicolas's interview in the newspaper part 2](https://raw.githubusercontent.com/cosmhology/docs/master/flawisky/IMG_1472.JPG)
+* [Nicolas's interview in the newspaper part 3](https://raw.githubusercontent.com/cosmhology/docs/master/flawisky/IMG_1473.JPG)
 
 
 ## Michel Grosmann publications
