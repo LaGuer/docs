@@ -102,5 +102,6 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 ## Dominique Weigel publications
 
 * [http://vixra.org/author/dominique_weigel](http://vixra.org/author/dominique_weigel)
+* [Thesis director in Cristallography](https://www.theses.fr/027194353)
 
 More to come soon stay tuned.../.:stars:.
