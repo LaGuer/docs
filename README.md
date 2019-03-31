@@ -4,6 +4,10 @@
 
 This project aims at providing a repository dedicated to Dr Francis Michel Sanchez' work in holography and cosmology; it is just a mere continuation of what was initiated and published on a couple of other blogs.
 
+## Topological Axis
+
+* [Jupyter Notebook containing the Topological Axis](https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios/)
+
 ## Blog
 * [cosmhology blog in english](https://cosmhology.blogspot.com/)
 * [cosmhologie blog in french](https://cosmhologie.blogspot.com/)
@@ -24,12 +28,17 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 * [L'enigme des grands nombres Part3](https://www.youtube.com/watch?v=b4WvI0yVXnE)
 * [Exposés de Francis Sanchez](https://www.youtube.com/playlist?list=PLQXUNrzoAeFbmfHo3jgWzzExlVoBn2JUw)
 * [Khelif/Torgoz/Sanchez' Debate on LE FORMALISME EN PHYSIQUE ET EN SCIENCE](https://www.youtube.com/watch?v=TEK2hCI2we0)
+* [La complexité mathématique face à la simplicité cosmique - Exposé de Francis Sanchez](https://www.youtube.com/watch?v=dyUlUahgHGg)
+* [Francis Sanchez Cosmologie 23/03/2017](https://www.youtube.com/watch?v=NmvvIQjxBw8)
+* [La méthode scientifique en question et les constantes fondamentales - Exposé](https://www.youtube.com/watch?v=zUt1hxTdiuA)
+* [Jean Maruani chez lui et Francis Sanchez autour du nombre "137" 29. 12. 17](https://www.youtube.com/watch?v=05g416VWjnw)
+* [Christian Bizouard, astronome : Omniprésence astrophysique du cycle de Kotov](https://www.youtube.com/watch?v=DGeBC73kKvQ)
+* [Pr. Renée Veysseyre : La constante d'Atiyah réunifie Physique et Mathématique](https://www.youtube.com/watch?v=mbPpKqakDAU)
+* [Pr. Michel Grosmann : Holographie quanto-cosmique](https://www.youtube.com/watch?v=M7bJnekDIt0)
+* [Pr. Francis Sanchez : Historique, Principe Calculatoire, Axe Topologique et Principe Holique](https://www.youtube.com/watch?v=IgKSrfsqFEs)
+* [Pr. F. Sanchez : Historique, Principe Calculatoire, Axe Topologique et Principe Holique (2e partie)](https://www.youtube.com/watch?v=8A3SmYB53EA)
+* [Prof. Michel Grossman on Greek National television (ET1, 1988)](https://www.youtube.com/watch?v=1iSczcUr2Vk)
 
-* https://www.youtube.com/watch?v=dyUlUahgHGg
-* https://www.youtube.com/watch?v=NmvvIQjxBw8
-* https://www.youtube.com/watch?v=dyUlUahgHGg
-* https://www.youtube.com/watch?v=zUt1hxTdiuA
-* https://www.youtube.com/watch?v=05g416VWjnw
 
 ## Books
 
@@ -51,5 +60,47 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
 * [http://vixra.org/author/valery_a_kotov](http://vixra.org/author/valery_a_kotov)
 * [http://rxiv.org/author/v_a_kotov](http://rxiv.org/author/v_a_kotov)
 * [https://www.researchgate.net/scientific-contributions/4140366_V_A_Kotov](https://www.researchgate.net/scientific-contributions/4140366_V_A_Kotov)
+
+## Christian Bizouard publications
+
+* [http://vixra.org/author/christian_bizouard](http://vixra.org/author/christian_bizouard)
+* [Christian-Bizouard-Geophysical-modelling-of-the-polar-motion](https://www.amazon.com/Geophysical-Modelling-Gruyter-Studies-Mathematical-ebook/dp/B01N0DUB76)
+* [Christian-Bizouard co-authored Lunar influence on equatorial atmospheric angular momentum](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JD022240)
+
+## Nicolas Flawisky publications
+
+* [Co-authored "Emergence of a New Quantum Mechanics by Multivalued Logic"](https://www.researchgate.net/publication/260628556_Emergence_of_a_New_Quantum_Mechanics_by_Multivalued_Logic)
+* [The Physics of Reality : Space, Time, Matter, Cosmos - Proceedings of the 8th Symposium Honoring Mathematical Physicist Jean-Pierre Vigier; Covent Gar](https://www.amazon.com/Physics-Reality-Proceedings-Mathematical-Jean-Pierre/dp/9814504777)
+* [Nicolas's interview in the newspaper part 1](https://github.com/cosmhology/docs/flawisky/)
+* [Nicolas's interview in the newspaper part 2](https://github.com/cosmhology/docs/flawisky/)
+* [Nicolas's interview in the newspaper part 3](https://github.com/cosmhology/docs/flawisky/)
+
+
+## Michel Grosmann publications
+
+* [http://rxiv.org/author/m_grosmann](http://rxiv.org/author/m_grosmann)
+* [https://www.worldcat.org/search?q=au%3AGrosmann%2C+Michel.&qt=hot_author]()
+* [Optics and photonics applied to communication and processing (OPTICOM) / Michel Grosmann, Patrick Meyrueis.](https://www.worldcat.org/title/optics-and-photonics-applied-to-communication-and-processing-opticom-michel-grosmann-patrick-meyrueis/oclc/911811471&referer=brief_results)
+* [Optics and photonics applied to three-dimensional imagery (IMAGE 3-D) : presented as part of the Optics, Photonics, and Iconics Engineeing Meeting (OPIEM), November 26-30, 1979, Strasbourg, France](https://www.worldcat.org/title/optics-and-photonics-applied-to-three-dimensional-imagery-image-3-d-presented-as-part-of-the-optics-photonics-and-iconics-engineeing-meeting-opiem-november-26-30-1979-strasbourg-france/oclc/977070333)
+* [Electromagnetic theory of volume gratings and applications to the analysis of the modulation profile](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1600/1/Electromagnetic-theory-of-volume-gratings-and-applications-to-the-analysis/10.1117/12.57792.short?SSO=1)
+* [10th International Symposium on Display Holography](http://isdh2015.ifmo.ru/commitees.html)
+* [Medical Data Probabilistic Analysis by Optical Computing Methods](https://core.ac.uk/display/25543226)
+* [Michel Grosmann's Patents: Holographic system producing superimposed holograms - has duplicate optical systems acting as reference for each other](https://patents.google.com/patent/FR2527800A1/en)
+* [Hologram recording material - by coating a rigid or flexible support with gelatin, and sensitising with aq. ammonium di:chromate soln](https://patents.google.com/patent/FR2492997A1/en)
+* [Principle Of The Holographic Cinematography](http://spie.org/Publications/Proceedings/Paper/10.1117/12.956185)
+* [1st European Conf on Optics Applied to Metrology](http://spie.org/Publications/Proceedings/Volume/0136)
+* [Le relief autrement : Lenticulaire, Hologramme, Auto-stéréogramme](https://www.image-en-relief.org/stereo/comprendre/technique-informatique/60-lenticulaire-hologramme-autostereogramme)
+* [M. Grosmann scientific contributions in Researchgate](https://www.researchgate.net/scientific-contributions/2004655194_M_Grosmann)
+* [M. grosmann co-editor of Optics and Photonics Applied to Medicine](http://spie.org/Publications/Proceedings/Volume/0211)
+* [Accurate Iconics Studies Of Ostheosynthesis Of Jaws](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0211/0000/Accurate-Iconics-Studies-Of-Ostheosynthesis-Of-Jaws/10.1117/12.958356.short)
+
+## Renee Veysseyres publications
+
+* [https://vixra.org/author/renee_veysseyre](https://vixra.org/author/renee_veysseyre)
+* [Books of Renée Veysseyre : bibliographie - Dunod](https://www.dunod.com/livres-renee-veysseyre)
+
+## Dominique Weigel publications
+
+* [http://vixra.org/author/dominique_weigel](http://vixra.org/author/dominique_weigel)
 
 More to come soon stay tuned.../.:stars:.
