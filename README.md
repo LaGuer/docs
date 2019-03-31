@@ -1,6 +1,9 @@
 ![Galaxy](https://https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS/giphy.gif)
 ![Cosmos](https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy/giphy.gif)
 
+<img src="https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy/giphy.gif" width="40" height="40" />
+<img src="https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS/giphy.gif" width="40" height="40" />
+
 :star:
 
 # Docs
