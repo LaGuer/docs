@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/xT9IgusfDcqpPFzjdS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS">via GIPHY</a></p>
+<img align="left" src="https://https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS" alt="galaxy"/>
+<img align="right" src="https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy" alt="cosmos" width="100"/>
 
 :star:
 
