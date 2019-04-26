@@ -58,6 +58,16 @@ This project aims at providing a repository dedicated to Dr Francis Michel Sanch
   title=Remarkable Properties of the Eddington Number 137 and Electric Parameter 137 . 036 excluding the Multiverse Hypothesis},
   author={Francis M. Sanchez and Valery A. Kotov,
   year=2015```
+ 
+## Citations
+
+* ```@book{rabounskiprogress,
+  title={Progress in Physics, vol. 2/2013: The Journal on Advanced Studies in Theoretical and Experimental Physics, including Related Themes from Mathematics},
+  author={Rabounski, D. and Smarandache, F. and Borissova, L.},
+  url={https://books.google.fr/books?id=6TI7DwAAQBAJ},
+  publisher={Infinite Study}
+}```
+
 ## Papers
 
 * [Discussions sur les oscillations cosmiques, les nombres sans dimension et les periodicites en microphysique et cosmologie](https://lempel.pagesperso-orange.fr/occ_cdf.pdf)
